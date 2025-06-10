@@ -6,7 +6,7 @@ This project analyzes a large dataset of U.S. tech job listings to uncover hirin
 
 ## Project Structure
 
-- `all_jobs.xlsx` – Source dataset (Excel)
+- `sample_all_jobs.xlsx` – Sample of original dataset (500 rows for GitHub)
 - `US_Tech_Job_Analysis.ipynb` – Jupyter Notebook with full analysis 
 - Visualizations embedded inline (matplotlib & seaborn)
 
