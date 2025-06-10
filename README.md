@@ -1,6 +1,6 @@
 # U.S. Tech Job Market Data Exploration 
 
-This project analyzes a large dataset of U.S. tech job listings to uncover hiring trends, in-demand titles, common job types, top locations, and salary distribution. The goal is to demonstrate practical skills in data analysis, cleaning, and visualization using Python.
+This project analyzes a large dataset of U.S. tech job listings to uncover hiring trends, in-demand job titles, common job types, top locations, and salary distribution. The goal is to showcase practical skills in data cleaning, analysis, and visualization using Python.
 
 ---
 
