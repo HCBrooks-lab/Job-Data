@@ -97,6 +97,10 @@ Planned Enhancements:
 
 ---
 
+## Data Source
+
+This dataset was originally sourced from [Kaggle](https://www.kaggle.com/). 
+
 ## Author
 
 Hallene Brooks 
