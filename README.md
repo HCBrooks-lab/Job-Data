@@ -100,6 +100,9 @@ Planned Enhancements:
 ## Data Source
 
 This dataset was originally sourced from [Kaggle](https://www.kaggle.com/). 
+Job listing data sourced from publicly available job boards and educational datasets. Sample extracted & cleaned for demonstration purposes. 
+
+---
 
 ## Author
 
