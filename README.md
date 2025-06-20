@@ -20,8 +20,11 @@ It highlights in-demand roles such as Software Engineer, Data Scientist, and Pro
 ## Project Structure
 
 - `sample_all_jobs.xlsx` – Sample of original dataset (500 rows for GitHub)
-- `US_Tech_Job_Analysis.ipynb` – Jupyter Notebook with full analysis 
+- `US_Tech_Job_Analysis.ipynb` – Jupyter Notebook with full analysis
+- 'TopTechJobTitles.twbx' - Tableau packaged workbook with interactive job title
+  dashboard. 
 - Visualizations embedded inline (matplotlib & seaborn)
+
 
 ---
 
