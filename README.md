@@ -4,6 +4,14 @@ This project analyzes a large dataset of U.S. tech job listings to uncover hirin
 
 ---
 
+## Tableau Visualization
+
+[View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/h.brooks/viz/TopTechJobTitles_17504478428960/Sheet1?publish=yes)
+
+This interactive bar chart displays the **Top Tech Job Titles** based on their frequency across U.S. tech job listings.  
+It highlights in-demand roles such as Software Engineer, Data Scientist, and Product Manager using data visualized in Tableau Public.
+
+
 ## Project Structure
 
 - `sample_all_jobs.xlsx` – Sample of original dataset (500 rows for GitHub)
