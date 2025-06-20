@@ -11,7 +11,8 @@ This project analyzes a large dataset of U.S. tech job listings to uncover hirin
 Click the image above to view the full interactive chart on Tableau Public.
 
 
-This interactive bar chart displays the **Top Tech Job Titles** based on their frequency across U.S. tech job listings.  
+This interactive bar chart displays the **Top Tech Job Titles** based on their frequency across U.S. tech job listings.
+
 It highlights in-demand roles such as Software Engineer, Data Scientist, and Product Manager using data visualized in Tableau Public.
 
 ---
