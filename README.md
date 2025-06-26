@@ -58,11 +58,15 @@ Roles like Software Engineer, Data Scientist, and Product Manager dominate listi
 ### Top Hiring Locations
 Remote jobs lead the market, followed by hubs like New York, Seattle, and San Francisco.
 
-### Job Types Distribution
+### Job Type Distribution
 Full-time roles are most common, but contract and internship opportunities are also significant.
 
 ### Salary Range Distribution
 Visual distribution of minimum and maximum salaries. Outliers above $500,000 are excluded for clarity.
+
+### Job Type Distribution 
+The horizontal bar chart shows the distribution of job types across US job postings. The
+visualization provides a quick comparison of employment types and reflects industry demand for different work arrangements. 
 
 ---
 
