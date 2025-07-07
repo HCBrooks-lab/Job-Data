@@ -4,16 +4,13 @@ This project analyzes a large dataset of U.S. tech job listings to uncover hirin
 
 ---
 
-## Tableau Visualization
+### Tableau Visualization: Top 10 U.S. Tech Job Tiltes (2025)
 
-[![Top Tech Job Titles](top_tech_job_titles.png)](https://public.tableau.com/app/profile/h.brooks/viz/TopTechJobTitles_17504478428960/Sheet1?publish=yes)
+[![Top 10 Tech Job Titles Chart](top_10_titles.png)](https://public.tableau.com/app/profile/h.brooks/viz/TopTechJobTitles_17504478428960/Sheet1?publish=yes)
 
 Click the image above to view the full interactive chart on Tableau Public.
 
-
-This interactive bar chart displays the **Top Tech Job Titles** based on their frequency across U.S. tech job listings.
-
-It highlights in-demand roles such as Software Engineer, Data Scientist, and Product Manager using data visualized in Tableau Public.
+The interactive chart on Tableau Pubic higlights the 10 most frequently posted tech job titles in the U.S. during 2025. 
 
 ---
 
