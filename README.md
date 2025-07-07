@@ -20,8 +20,9 @@ The interactive chart on Tableau Pubic higlights the 10 most frequently posted t
 - `US_Tech_Job_Analysis.ipynb` – Jupyter Notebook with full analysis
 - 'TopTechJobTitles.twbx' - Tableau packaged workbook with interactive job title
   dashboard. 
-- Visualizations embedded inline (matplotlib & seaborn)
-
+- Visualizations embedded inline.
+- 'top_10_titles.png' - Image of top 10 in list.
+- 'all_tech_job_titles.png - All listed titles. 
 
 ---
 
@@ -79,7 +80,7 @@ visualization provides a quick comparison of employment types and reflects indus
 
 ## Skills Demonstrated
 
-- Exploratory Data Analysis (EDA)
+- Exploratory Data Analysis 
 - Data cleaning (null values, outliers)
 - Data visualization best practices
 - Markdown storytelling and documentation
