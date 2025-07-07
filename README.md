@@ -6,7 +6,7 @@ This project analyzes a large dataset of U.S. tech job listings to uncover hirin
 
 ### Tableau Visualization: Top 10 U.S. Tech Job Titles (2025)
 
-[![Top 10 Tech Job Titles Chart](top_10_titles.png)](https://public.tableau.com/app/profile/h.brooks/viz/TopTechJobTitles_17504478428960/Sheet1?publish=yes)
+[[![Top 10 Tech Job Titles Chart](top_10_titles.png)][(https://public.tableau.com/app/profile/h.brooks/viz/Top10USTechJobTitles-2025_17519064026340/Sheet1)]]
 
 Click the image above to view the full interactive chart on Tableau Public.
 
