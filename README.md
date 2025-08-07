@@ -10,7 +10,7 @@ This project analyzes a large dataset of U.S. tech job listings to uncover hirin
 
 Click the image above to view the full interactive chart on Tableau Public.
 
-The interactive chart on Tableau Pubic higlights the 10 most frequently posted tech job titles in the U.S. during 2025. 
+The interactive chart on Tableau Pubic highlights the 10 most frequently posted tech job titles in the U.S. during 2025. 
 
 ---
 
