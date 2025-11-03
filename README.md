@@ -1,6 +1,7 @@
-# U.S. Tech Job Market Data Exploration 
+### U.S. Tech Job Market Data Exploration 
 
-This project analyzes a large dataset of U.S. tech job listings to uncover hiring trends, in-demand job titles, common job types, top locations, and salary distribution. The goal is to showcase practical skills in data cleaning, analysis, and visualization using Python.
+This project analyzes a large dataset of US tech career lisitngs to uncover trends, in-demand titles, common tech career types, and top hiring locations.
+The goal is to showcase pratical data cleaning, exploration, and visualization skills using Python and Tableau. 
 
 ---
 
@@ -18,11 +19,11 @@ The interactive chart on Tableau Pubic highlights the 10 most frequently posted 
 
 - `sample_all_jobs.xlsx` – Sample of original dataset (500 rows for GitHub)
 - `US_Tech_Job_Analysis.ipynb` – Jupyter Notebook with full analysis
-- 'TopTechJobTitles.twbx' - Tableau packaged workbook with interactive job title
-  dashboard. 
+- `TopTechJobTitles.twbx` - Tableau packaged workbook with interactive job
+   title dashboard. 
 - Visualizations embedded inline.
-- 'top_10_titles.png' - Image of top 10 in list.
-- 'all_tech_job_titles.png - All listed titles. 
+- `top_10_titles.png`- Image of top 10 in list.
+- `all_tech_job_titles.png` - All listed titles. 
 
 ---
 
