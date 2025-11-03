@@ -14,19 +14,12 @@ The interactive chart on Tableau Pubic highlights the 10 most frequently posted 
 
 ---
 
-## Python Visualization: Top Hiring States (Tech)
-
-![Top Hiring States](figures/top_hiring_states.png)
-
----
-
 ## Project Structure
 
 - `sample_all_jobs.xlsx` – Sample of original dataset (500 rows for GitHub)
 - `US_Tech_Job_Analysis.ipynb` – Jupyter Notebook with full analysis
 - `TopTechJobTitles.twbx` - Tableau packaged workbook with interactive job
-   title dashboard. 
-- Visualizations embedded inline.
+   title dashboard visualizations embedded inline.
 - `top_10_titles.png`- Image of top 10 in list.
 - `all_tech_job_titles.png` - All listed titles. 
 
