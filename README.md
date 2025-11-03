@@ -14,13 +14,9 @@ The interactive chart on Tableau Pubic highlights the 10 most frequently posted 
 
 ---
 
-## Python Visualization: Top Tech Job Titles (2025)
-<h2>Python Visualization: Top Hiring States (Tech)</h2>
-<a href="figures/top_hiring_states.png">
-  <img src="figures/top_hiring_states.png" alt="Top Hiring States (Tech Job Postings)" style="width:100%; max-width:1200px; height:auto; border:0;" />
-</a>
-<p><em>This Python bar chart complements the Tableau visual by showing US states with the most tech career opportunities…</em></p>
+## Python Visualization: Top Hiring States (Tech)
 
+![Top Hiring States](figures/top_hiring_states.png)
 
 ---
 
