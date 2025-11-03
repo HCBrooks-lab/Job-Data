@@ -15,7 +15,10 @@ The interactive chart on Tableau Pubic highlights the 10 most frequently posted 
 ---
 
 ## Python Visualization: Top Tech Job Titles (2025)
-![Top Hiring States](TechJobs/figures/top_hiring_states.png)
+<p align = "center">
+   <img src = "./figures/top_hiring_states.png" alt = "Top Hiring States (Tech 
+   Career Postings)" width = "100%">
+</p>
 
 This Python bar chart complements the Tableau visual by showing US states that host the most tech career opportunities. California leads the market, followed by Texas, Virginia, Washington, and New York. This affirms where the strongest hiring activity is located across the country. 
 
